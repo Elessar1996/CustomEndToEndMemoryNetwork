@@ -1,4 +1,4 @@
-# CustomEndToEndMemoryNetwork
+# End-To-End Memory Network
 An Implementation of End-To-End memory network
 
 This repo is an implemetation of **End-To-End memory network** which is a Deep Learning model for doing Natural Language Processing tasks. The paper proposing this model is:
